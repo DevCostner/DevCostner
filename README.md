@@ -5,7 +5,7 @@ Sou apaixonado por programação e estou embarcando na emocionante jornada de ap
 ### 💻 O que estou fazendo atualmente:
 
 - 🌐 Cursando Desenvolvimento de Software para aprimorar minhas habilidades.
-- 📚 Aprendendo HTML, CSS e JavaScript].
+- 📚 Aprendendo HTML, CSS e JavaScript.
 
 ### 🤝 Como colaborar comigo:
 
